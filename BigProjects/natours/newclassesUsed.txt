@@ -1,0 +1,7 @@
+shape-outside
+clip-path
+backface-visibility //removes translation errors
+filter              //pply blur/darkness etc
+object-fit
+
+floated elements are moved by transform:translate properties
